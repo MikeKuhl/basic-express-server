@@ -9,5 +9,24 @@
     "test": "jest --coverage",
     "watch": "jest --coverage --watchAll",
     "start": "node index.js"
-  }
+  },
+  "name": "basic-express-server",
+  "description": "standards compliant Express server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeKuhl/basic-express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeKuhl/basic-express-server/issues"
+  },
+  "homepage": "https://github.com/MikeKuhl/basic-express-server#readme"
 }
